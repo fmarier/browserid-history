@@ -13,5 +13,6 @@
 2012-02-07: Identity provider API goes live
 2012-01-06: BrowserID deployed on 5 Mozilla websites
 2011-12-01: Persistent logins and requiredEmail are added
+2011-07-15: Drupal module released: http://drupal.org/node/1219638
 2011-07-14: BrowserID launch
 2011-03-25: First draft of the VerifiedEmail protocol
