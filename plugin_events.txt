@@ -1,1 +1,3 @@
+2011-07-19: Django plugin released
+2011-07-15: Wordpress plugin released
 2011-07-15: Drupal module released: http://drupal.org/node/1219638
