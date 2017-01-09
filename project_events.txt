@@ -1,3 +1,4 @@
+2016-12-16: Service shutdown
 2016-11-30: End of support from Mozilla
 2016-01-11: Announcement of server shutdown
 2014-03-07: Transition to community ownership
